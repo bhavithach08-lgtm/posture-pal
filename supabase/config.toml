@@ -1,0 +1,4 @@
+project_id = "sdijoebuedlmtulfyalq"
+
+[functions.analyze-posture]
+verify_jwt = false
